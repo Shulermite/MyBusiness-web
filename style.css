@@ -1,0 +1,36 @@
+.services{
+    background-image: url('images/invisible2.jpg');
+    width: 100%;
+}
+body{
+    color: rgb(12, 12, 12);
+}
+a{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #c609f5;
+    background-color: black;
+    float: left;
+    display: block;
+    width: 23%;
+    height: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0px;
+}
+a:hover{
+    color: aliceblue;
+}
+h4{
+    color: rgba(139, 0, 90, 0.87);
+}
+.gallery img{
+    width: 150px;
+    height: 250%;
+    margin: 50px;
+}
+.background{
+    background-color: rgba(7, 2, 33, 0.897);
+}
